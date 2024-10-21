@@ -12,7 +12,7 @@ int main(void) {
 
   float v1[3], v2[3], v3[3];  // Declare 3-element arrays of floats
   
-  int w[4];    // Declare 4-element array of integers
+  int w[4];    // Declare 4-element array of integers, length(w), size(w)
   
   // The array lengths for v1, v2, v3, and w are fixed.  
   // Finding the length of an existing array takes some work. 
