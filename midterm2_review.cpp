@@ -6,10 +6,7 @@ int main(void) {
 
   // Course Grading:
   //   - the course grade will be curved
-  //   - refer to your mid-semester grades for guidance
   //   - the lowest homework grade will be dropped automatically
-  //   - if you score higher on the final than the midterm, your midterm
-  //     grade will be replaced with your final exam grade
   //   - for other questions/issues see me during office hours this week
 
 
